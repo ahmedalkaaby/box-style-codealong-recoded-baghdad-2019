@@ -356,5 +356,12 @@ section {
 }
 
 /*////////// FOOTER //////////*/
+footer{
+  text-align: center;
+  font-size: 0.75m;
+  padding: 10px;
+  background: #eee;
+  border-top: 1px solid #ccc;
+}
 
 
